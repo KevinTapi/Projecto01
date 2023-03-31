@@ -11,7 +11,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg); height: 1920; width: 1080;
+  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg);
   background-size: cover;
   left: 0;
   right: 0;
