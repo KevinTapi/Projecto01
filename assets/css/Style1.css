@@ -3,9 +3,9 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg);
   position: relative;
   background: transparent;
+  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg);
 }
 
 body::before {
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 15px;
   z-index: 9998;
   border: 0;
-  background-image: url(../public/backgroundmobile.jpg);
+  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg);
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
