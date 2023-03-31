@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: url(../public/backgroundpc.jpg);
+  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg);
   position: relative;
   background: transparent;
 }
@@ -11,7 +11,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background-image: url(../public/backgroundpc.jpg); height: 1920; width: 1080;
+  background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg); height: 1920; width: 1080;
   background-size: cover;
   left: 0;
   right: 0;
@@ -345,7 +345,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #000000;
+  color: #ffffff;
   font-family: "Poppins", sans-serif;
 }
 
@@ -365,7 +365,7 @@ section .container {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #000000;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
